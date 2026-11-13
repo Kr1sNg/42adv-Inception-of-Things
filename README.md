@@ -25,7 +25,7 @@ end
 
 - `vagrant status`
 
-- `vagrant ssh <id>`
+- `vagrant ssh`
 
 - `vagrant halt`: stops the vagrant machine
 
@@ -34,6 +34,8 @@ end
 - `vagrant destroy`: stops and deletes all traces of the vagrant machine
 
 - `vagrant validate`: validate Vagrantfile
+
+- `vagrant global-status`
 
 ## Kubernetes (K8s)
 
